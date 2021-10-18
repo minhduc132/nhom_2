@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa873d30-d5f7-4742-86e8-569e68f18340" name="Changes" comment="" />
+    <list default="true" id="aa873d30-d5f7-4742-86e8-569e68f18340" name="Changes" comment="delete test view" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +35,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634557254514</updated>
-      <workItem from="1634557256796" duration="847000" />
+      <workItem from="1634557256796" duration="1108000" />
     </task>
+    <task id="LOCAL-00001" summary="push test view">
+      <created>1634559544613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634559544613</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete test view">
+      <created>1634559623932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634559623932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,5 +67,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push test view" />
+    <MESSAGE value="delete test view" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete test view" />
   </component>
 </project>
